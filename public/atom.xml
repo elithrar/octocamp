@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://eatsleeprepeat.net//atom.xml" rel="self"/>
   <link href="http://eatsleeprepeat.net//"/>
-  <updated>2012-06-30T14:30:19+08:00</updated>
+  <updated>2012-06-30T21:51:37+08:00</updated>
   <id>http://eatsleeprepeat.net//</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Beta]]></title>
+    <link href="http://eatsleeprepeat.net//2012/beta/"/>
+    <updated>2012-06-30T19:28:00+08:00</updated>
+    <id>http://eatsleeprepeat.net//2012/beta</id>
+    <content type="html"><![CDATA[<p>Just a test post for the <a href="http://octopress.org/">Octopress</a> powered version of eatsleeprepeat.net.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lunch]]></title>
