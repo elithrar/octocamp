@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Text | EATSLEEPREPEAT.NET]]></title>
+  <link href="http://eatsleeprepeat.net//categories/text/atom.xml" rel="self"/>
+  <link href="http://eatsleeprepeat.net//"/>
+  <updated>2012-06-30T21:51:37+08:00</updated>
+  <id>http://eatsleeprepeat.net//</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Beta]]></title>
+    <link href="http://eatsleeprepeat.net//2012/beta/"/>
+    <updated>2012-06-30T19:28:00+08:00</updated>
+    <id>http://eatsleeprepeat.net//2012/beta</id>
+    <content type="html"><![CDATA[<p>Just a test post for the <a href="http://octopress.org/">Octopress</a> powered version of eatsleeprepeat.net.</p>
+]]></content>
+  </entry>
+  
+</feed>
