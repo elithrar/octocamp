@@ -5,14 +5,16 @@ sidebar: false
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include header.html %}
 {% include head.html %}
+
 <body>
 {% include navigation.html %}
 
-<div id="container">
-  {{ content | expand_urls: root_url }}
+<div class="container">
+    {{ content | expand_urls: root_url }}
+
+    {% include footer.html %}
+    {% include after_footer.html %}
 </div>
 
-{% include footer.html %}
-{% include after_footer.html %}
 </body>
 </html>

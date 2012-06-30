@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Food | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Food | EATSLEEPREPEAT.NET]]></title>
   <link href="http://eatsleeprepeat.net//categories/food/atom.xml" rel="self"/>
   <link href="http://eatsleeprepeat.net//"/>
-  <updated>2012-06-30T09:44:46+08:00</updated>
+  <updated>2012-06-30T14:30:19+08:00</updated>
   <id>http://eatsleeprepeat.net//</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
