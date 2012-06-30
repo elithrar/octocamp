@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photography | My Octopress Blog]]></title>
+  <link href="http://eatsleeprepeat.net//categories/photography/atom.xml" rel="self"/>
+  <link href="http://eatsleeprepeat.net//"/>
+  <updated>2012-06-30T09:44:46+08:00</updated>
+  <id>http://eatsleeprepeat.net//</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://eatsleeprepeat.net//2012/hello/"/>
+    <updated>2012-06-26T15:59:00+08:00</updated>
+    <id>http://eatsleeprepeat.net//2012/hello</id>
+    <content type="html"><![CDATA[<p>Just testing the site!</p>
+
+<p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" alt="Cones" /></p>
+]]></content>
+  </entry>
+  
+</feed>

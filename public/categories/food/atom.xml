@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Food | My Octopress Blog]]></title>
+  <link href="http://eatsleeprepeat.net//categories/food/atom.xml" rel="self"/>
+  <link href="http://eatsleeprepeat.net//"/>
+  <updated>2012-06-30T09:44:46+08:00</updated>
+  <id>http://eatsleeprepeat.net//</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lunch]]></title>
+    <link href="http://eatsleeprepeat.net//2012/lunch/"/>
+    <updated>2012-06-29T19:11:00+08:00</updated>
+    <id>http://eatsleeprepeat.net//2012/lunch</id>
+    <content type="html"><![CDATA[<p>A late lunch at <em>THAT Food Company</em>&nbsp;in Bayswater (I recommend the LOT burger).</p>
+
+<p><img src="http://f.cl.ly/items/1K2e1E2B3C3n1c0m0M1o/DSCF0264-Edit-2.jpg" alt="Table" />
+<img src="http://f.cl.ly/items/2X0C0d152N3R3L0Q112U/DSCF0265-Edit-2.jpg" alt="Burger" />
+<img src="http://f.cl.ly/items/3s1j2U3t09092c0y220l/DSCF0266-Edit.jpg" alt="Reading" /></p>
+]]></content>
+  </entry>
+  
+</feed>
