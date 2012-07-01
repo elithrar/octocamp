@@ -20,6 +20,7 @@
 {% unless page.meta == false %}
 <span class="cite">
     <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
+    {% if page.categories != 0 %}in{% include post/categories.html %}{% endif %}
 </span>
 <span class="cite">  
     {% unless page.sharing == false %}
@@ -27,9 +28,5 @@
     {% endunless %}
 </span>
 {% endunless %}
-
-{% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
-     | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
-    {% endif %}
 
 </div>
