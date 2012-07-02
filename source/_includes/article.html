@@ -21,11 +21,6 @@
 <span class="cite">
     <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
 </span>
-    {% if page.categories != 0 %}
-    <span class="cite">
-      <i class="icon-tag"></i>{% include post/categories.html %}
-    </span>
-    {% endif %}
 {% unless page.sharing == false %}
   <span class="cite">  
     {% include post/sharing.html %}
