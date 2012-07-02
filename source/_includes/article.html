@@ -20,13 +20,17 @@
 {% unless page.meta == false %}
 <span class="cite">
     <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
-    {% if page.categories != 0 %}in{% include post/categories.html %}{% endif %}
 </span>
-<span class="cite">  
-    {% unless page.sharing == false %}
-      {% include post/sharing.html %}
-    {% endunless %}
-</span>
+    {% if page.categories != 0 %}
+    <span class="cite">
+      <i class="icon-tag"></i>{% include post/categories.html %}
+    </span>
+    {% endif %}
+{% unless page.sharing == false %}
+  <span class="cite">  
+    {% include post/sharing.html %}
+  </span>
+{% endunless %}
 {% endunless %}
 
 </div>
