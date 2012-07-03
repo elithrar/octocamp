@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://eatsleeprepeat.net/2012/hello/</loc>
+        <loc>http://beta.eatsleeprepeat.net/2012/hello/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://eatsleeprepeat.net/2012/lunch/</loc>
+        <loc>http://beta.eatsleeprepeat.net/2012/lunch/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://eatsleeprepeat.net/2012/beta/</loc>
+        <loc>http://beta.eatsleeprepeat.net/2012/beta/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://eatsleeprepeat.net/2012/comments/</loc>
+        <loc>http://beta.eatsleeprepeat.net/2012/comments/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://eatsleeprepeat.net/blog/archives/</loc>
+        <loc>http://beta.eatsleeprepeat.net/blog/archives/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://eatsleeprepeat.net/</loc>
+        <loc>http://beta.eatsleeprepeat.net/</loc>
         <lastmod>2012-07-03T07:12:22+08:00</lastmod>
     </url>
 </urlset>
