@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Outdoors | EATSLEEPREPEAT.NET]]></title>
+  <link href="http://beta.eatsleeprepeat.net/categories/outdoors/atom.xml" rel="self"/>
+  <link href="http://beta.eatsleeprepeat.net/"/>
+  <updated>2012-07-03T19:46:19+08:00</updated>
+  <id>http://beta.eatsleeprepeat.net/</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Instax]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/instax/"/>
+    <updated>2012-07-03T19:43:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/instax</id>
+    <content type="html"><![CDATA[<p>Em’s Fuji Instax 210 (the wide format version) arrived today.</p>
+
+<p><img src="http://f.cl.ly/items/3u1c0e2q0s380v2t2219/DSCF0276-Edit.jpg" alt="Fuji Instax" /></p>
+]]></content>
+  </entry>
+  
+</feed>

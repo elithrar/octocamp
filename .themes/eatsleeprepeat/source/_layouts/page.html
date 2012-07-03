@@ -24,20 +24,28 @@ sidebar: false
       {% endunless %}
     </footer>
   {% endunless %}
-</article>
-{% if site.disqus_short_name and page.comments == true %}
-  <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
-  </section>
-{% endif %}
-</div>
-{% unless page.sidebar == false %}
-<aside class="sidebar">
-  {% if site.page_asides.size %}
-    {% include_array page_asides %}
+
+<!--
+
+<div class="hero-unit">
+{% if page.title %}
+  <h2><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</a></h2>
   {% else %}
-    {% include_array default_asides %}
+    <h2>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
   {% endif %}
-</aside>
 {% endunless %}
+
+{{ content }}
+
+{% unless page.meta == false %}
+<span class="cite">
+    <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
+</span>
+{% unless page.sharing == false %}
+    {% include post/sharing.html %}
+{% endunless %}
+{% endunless %}
+
+</div>
+
+-->
