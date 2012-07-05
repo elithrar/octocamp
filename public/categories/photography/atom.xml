@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photography | EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/categories/photography/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-05T10:50:44+08:00</updated>
+  <updated>2012-07-05T13:56:30+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/hello/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012:/hello/"/>
     <updated>2012-06-26T15:59:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/hello</id>
+    <id>http://beta.eatsleeprepeat.net/2012:/hello</id>
     <content type="html"><![CDATA[<p>Just testing the site!</p>
 
 <p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" alt="Cones" /></p>
