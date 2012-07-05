@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Text | EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/categories/text/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-05T13:56:30+08:00</updated>
+  <updated>2012-07-05T13:59:46+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Beta]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/beta/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/beta/"/>
     <updated>2012-06-30T19:28:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/beta</id>
+    <id>http://beta.eatsleeprepeat.net/2012/beta</id>
     <content type="html"><![CDATA[<p>Just a test post for the <a href="http://octopress.org/">Octopress</a> powered version of eatsleeprepeat.net.</p>
 ]]></content>
   </entry>

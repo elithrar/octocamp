@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-05T13:56:30+08:00</updated>
+  <updated>2012-07-05T13:59:46+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Instax]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/instax/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/instax/"/>
     <updated>2012-07-03T19:43:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/instax</id>
+    <id>http://beta.eatsleeprepeat.net/2012/instax</id>
     <content type="html"><![CDATA[<p>Em’s Fuji Instax 210 (the wide format version) arrived today.</p>
 
 <p><img src="http://f.cl.ly/items/3u1c0e2q0s380v2t2219/DSCF0276-Edit.jpg" alt="Fuji Instax" /></p>
@@ -26,27 +26,27 @@
   
   <entry>
     <title type="html"><![CDATA[Comments]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/comments/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/comments/"/>
     <updated>2012-07-01T10:28:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/comments</id>
+    <id>http://beta.eatsleeprepeat.net/2012/comments</id>
     <content type="html"><![CDATA[<p>Testing Disqus.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Beta]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/beta/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/beta/"/>
     <updated>2012-06-30T19:28:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/beta</id>
+    <id>http://beta.eatsleeprepeat.net/2012/beta</id>
     <content type="html"><![CDATA[<p>Just a test post for the <a href="http://octopress.org/">Octopress</a> powered version of eatsleeprepeat.net.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Lunch]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/lunch/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/lunch/"/>
     <updated>2012-06-29T19:11:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/lunch</id>
+    <id>http://beta.eatsleeprepeat.net/2012/lunch</id>
     <content type="html"><![CDATA[<p>A late lunch at <em>THAT Food Company</em>&nbsp;in Bayswater (I recommend the LOT burger).</p>
 
 <p><img src="http://f.cl.ly/items/1K2e1E2B3C3n1c0m0M1o/DSCF0264-Edit-2.jpg" alt="Table" />
@@ -57,9 +57,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012:/hello/"/>
+    <link href="http://beta.eatsleeprepeat.net/2012/hello/"/>
     <updated>2012-06-26T15:59:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012:/hello</id>
+    <id>http://beta.eatsleeprepeat.net/2012/hello</id>
     <content type="html"><![CDATA[<p>Just testing the site!</p>
 
 <p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" alt="Cones" /></p>
