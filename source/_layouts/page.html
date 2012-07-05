@@ -24,3 +24,28 @@ sidebar: false
       {% endunless %}
     </footer>
   {% endunless %}
+
+<!--
+
+<div class="hero-unit">
+{% if page.title %}
+  <h2><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</a></h2>
+  {% else %}
+    <h2>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
+  {% endif %}
+{% endunless %}
+
+{{ content }}
+
+{% unless page.meta == false %}
+<span class="cite">
+    <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
+</span>
+{% unless page.sharing == false %}
+    {% include post/sharing.html %}
+{% endunless %}
+{% endunless %}
+
+</div>
+
+-->
