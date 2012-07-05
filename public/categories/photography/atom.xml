@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photography | EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/categories/photography/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-05T13:59:46+08:00</updated>
+  <updated>2012-07-05T19:13:57+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/another/"/>
+    <updated>2012-07-05T18:34:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/another</id>
+    <content type="html"><![CDATA[<p><img src="http://farm8.staticflickr.com/7116/7431611196_38646f80d7_h_d.jpg" alt="Pine Cone" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
