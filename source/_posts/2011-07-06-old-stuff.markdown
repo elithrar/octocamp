@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Old Stuff"
+date: 2011-07-06 18:00
+comments: false
+categories: 
+---
+
+This is really old stuff. Hah.
+
+![Street Level](http://farm8.staticflickr.com/7042/6943631461_d6484b8d04_h.jpg)

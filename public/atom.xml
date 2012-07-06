@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-05T19:28:48+08:00</updated>
+  <updated>2012-07-06T19:16:56+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -90,6 +90,17 @@
     <content type="html"><![CDATA[<p>Just testing the site!</p>
 
 <p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" alt="Cones" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Old Stuff]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2011/old-stuff/"/>
+    <updated>2011-07-06T18:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2011/old-stuff</id>
+    <content type="html"><![CDATA[<p>This is really old stuff. Hah.</p>
+
+<p><img src="http://farm8.staticflickr.com/7042/6943631461_d6484b8d04_h.jpg" alt="Street Level" /></p>
 ]]></content>
   </entry>
   

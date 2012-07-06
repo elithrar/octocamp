@@ -1,43 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://beta.eatsleeprepeat.net/2011/old-stuff/</loc>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://beta.eatsleeprepeat.net/2012/hello/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/lunch/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/beta/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/comments/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/instax/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/pagination/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/addition/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/2012/another/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/blog/archives/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://beta.eatsleeprepeat.net/</loc>
-        <lastmod>2012-07-05T19:28:45+08:00</lastmod>
+        <lastmod>2012-07-06T19:16:44+08:00</lastmod>
     </url>
 </urlset>
