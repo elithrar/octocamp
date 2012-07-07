@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hello"
+title: "Hello"
 date: 2012-06-26 15:59
 categories: Photography
 ---

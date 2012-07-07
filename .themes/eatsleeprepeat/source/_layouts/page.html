@@ -3,49 +3,11 @@ layout: default
 sidebar: false
 ---
 
-<div>
-<article role="article">
-  {% if page.title %}
-  <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
-  </header>
-  {% endif %}
-  {{ content }}
-  {% unless page.footer == false %}
-    <footer>
-      {% if page.date or page.author %}<p class="meta">
-        {% if page.author %}{% include post/author.html %}{% endif %}
-        {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-        {% if page.categories %}{% include post/categories.html %}{% endif %}
-      </p>{% endif %}
-      {% unless page.sharing == false %}
-        {% include post/sharing.html %}
-      {% endunless %}
-    </footer>
-  {% endunless %}
-
-<!--
-
 <div class="hero-unit">
-{% if page.title %}
-  <h2><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</a></h2>
-  {% else %}
-    <h2>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
-  {% endif %}
-{% endunless %}
+  {% if page.title %}
+      <h2>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
+    {% endif %}
 
-{{ content }}
-
-{% unless page.meta == false %}
-<span class="cite">
-    <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
-</span>
-{% unless page.sharing == false %}
-    {% include post/sharing.html %}
-{% endunless %}
-{% endunless %}
+  {{ content }}
 
 </div>
-
--->

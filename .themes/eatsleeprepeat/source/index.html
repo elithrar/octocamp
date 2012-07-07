@@ -14,13 +14,12 @@ layout: default
     {% if paginator.previous_page %}
     <li><a href="{{paginator.previous_page}}" title="Newer">Newer</a></li>
     {% else %}
-    <li class="disabled"><a href="{{paginator.previous_page}}" title="Newer">Newer</a></li>
+    <li class="disabled"><a title="Newer">Newer</a></li>
     {% endif %}
-    <li><a href="/blog/archives">Blog Archives</a></li>
     {% if paginator.next_page %}
     <li><a href="{{paginator.next_page}}" title="Older">Older</a></li>
     {% else %}
-    <li class="disabled"><a href="{{paginator.next_page}}" title="Older">Older</a></li>
+    <li class="disabled"><a title="Older">Older</a></li>
     {% endif %}
   </ul>
 </div>

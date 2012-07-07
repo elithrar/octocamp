@@ -9,7 +9,7 @@ footer: false
     <div class="row">
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% unless year == this_year %}
-      {% assign year = this_year %}
+        {% assign year = this_year %}
         <h2 class="list-header">{{ year }}</h2>
     {% endunless %}
         {% include archive_post.html %}
