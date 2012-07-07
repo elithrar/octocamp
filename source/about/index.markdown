@@ -9,7 +9,7 @@ footer: true
 
 ### Who am I?
 
-I'm mostly an ICT Engineer, working for a consultancy here in Perth, WA. I'm currently finishing off a degree in Internetworking and Security. I also take a lot of photos, code for the web, have more than a passing interest in application/network security, and read less than I should.
+I'm Matt Silverlock. I'm an ICT Engineer, working for a consultancy here in Perth, WA. I'm currently finishing off a degree in Internetworking and Security. I also take a lot of photos, code for the web, have more than a passing interest in application/network security, and read less than I should.
 
 ### What do I use?
 
