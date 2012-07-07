@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Photography | EATSLEEPREPEAT.NET]]></title>
-  <link href="http://beta.eatsleeprepeat.net/categories/photography/atom.xml" rel="self"/>
-  <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-07T14:50:01+08:00</updated>
-  <id>http://beta.eatsleeprepeat.net/</id>
+  <link href="http://www.eatsleeprepeat.net/categories/photography/atom.xml" rel="self"/>
+  <link href="http://www.eatsleeprepeat.net/"/>
+  <updated>2012-07-07T21:12:20+08:00</updated>
+  <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
     <email><![CDATA[matt@eatsleeprepeat.net]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Instax]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/instax/"/>
+    <link href="http://www.eatsleeprepeat.net/2012/instax/"/>
     <updated>2012-07-03T00:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/instax</id>
+    <id>http://www.eatsleeprepeat.net/2012/instax</id>
     <content type="html"><![CDATA[<p>Em's Fuji Instax 210 (the wide format version) arrived today.</p>
 
 
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lunch]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/lunch/"/>
+    <link href="http://www.eatsleeprepeat.net/2012/lunch/"/>
     <updated>2012-06-29T00:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/lunch</id>
+    <id>http://www.eatsleeprepeat.net/2012/lunch</id>
     <content type="html"><![CDATA[<p>A late lunch at "<em>THAT Food Company</em>" in Bayswater (I recommend the "LOT" burger).</p>
 
 
@@ -45,9 +45,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Pines]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/the-pines/"/>
+    <link href="http://www.eatsleeprepeat.net/2012/the-pines/"/>
     <updated>2012-06-25T00:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/the-pines</id>
+    <id>http://www.eatsleeprepeat.net/2012/the-pines</id>
     <content type="html"><![CDATA[<p>Landscaping.</p>
 
 
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Reaching]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/reaching/"/>
+    <link href="http://www.eatsleeprepeat.net/2012/reaching/"/>
     <updated>2012-06-24T00:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/reaching</id>
+    <id>http://www.eatsleeprepeat.net/2012/reaching</id>
     <content type="html"><![CDATA[<p>In Fremantle, Perth.</p>
 
 
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting Lost]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/getting-lost/"/>
+    <link href="http://www.eatsleeprepeat.net/2012/getting-lost/"/>
     <updated>2012-06-24T00:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/getting-lost</id>
+    <id>http://www.eatsleeprepeat.net/2012/getting-lost</id>
     <content type="html"><![CDATA[<p>Unsealed roads are the best ones.</p>
 
 
