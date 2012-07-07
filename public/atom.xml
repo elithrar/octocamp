@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://beta.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://beta.eatsleeprepeat.net/"/>
-  <updated>2012-07-07T14:27:29+08:00</updated>
+  <updated>2012-07-07T14:50:01+08:00</updated>
   <id>http://beta.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -14,95 +14,207 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Another]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/another/"/>
-    <updated>2012-07-05T18:34:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/another</id>
-    <content type="html"><![CDATA[<p>From the woods.</p>
-
-<p><img src="http://farm8.staticflickr.com/7116/7431611196_38646f80d7_h_d.jpg" alt="Pine Cone" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Addition]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/addition/"/>
-    <updated>2012-07-05T18:33:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/addition</id>
-    <content type="html"><![CDATA[<p>More text.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pagination]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/pagination/"/>
-    <updated>2012-07-05T18:31:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/pagination</id>
-    <content type="html"><![CDATA[<p>Testing pagination.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Instax]]></title>
     <link href="http://beta.eatsleeprepeat.net/2012/instax/"/>
-    <updated>2012-07-03T19:43:00+08:00</updated>
+    <updated>2012-07-03T00:00:00+08:00</updated>
     <id>http://beta.eatsleeprepeat.net/2012/instax</id>
-    <content type="html"><![CDATA[<p>Em’s Fuji Instax 210 (the wide format version) arrived today.</p>
-
-<p><img src="http://f.cl.ly/items/3u1c0e2q0s380v2t2219/DSCF0276-Edit.jpg" alt="Fuji Instax" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comments]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/comments/"/>
-    <updated>2012-07-01T10:28:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/comments</id>
-    <content type="html"><![CDATA[<p>Testing Disqus.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beta]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/beta/"/>
-    <updated>2012-06-30T19:28:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/beta</id>
-    <content type="html"><![CDATA[<p>Just a test post for the <a href="http://octopress.org/">Octopress</a> powered version of eatsleeprepeat.net.</p>
+    <content type="html"><![CDATA[<p>Em&#8217;s Fuji Instax 210 (the wide format version) arrived today.</p>
+<h3><img height="996" src="http://f.cl.ly/items/3u1c0e2q0s380v2t2219/DSCF0276-Edit.jpg" width="1500" /></h3> 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Lunch]]></title>
     <link href="http://beta.eatsleeprepeat.net/2012/lunch/"/>
-    <updated>2012-06-29T19:11:00+08:00</updated>
+    <updated>2012-06-29T00:00:00+08:00</updated>
     <id>http://beta.eatsleeprepeat.net/2012/lunch</id>
-    <content type="html"><![CDATA[<p>A late lunch at <em>THAT Food Company</em>&nbsp;in Bayswater (I recommend the LOT burger).</p>
-
-<p><img src="http://f.cl.ly/items/1K2e1E2B3C3n1c0m0M1o/DSCF0264-Edit-2.jpg" alt="Table" />
-<img src="http://f.cl.ly/items/2X0C0d152N3R3L0Q112U/DSCF0265-Edit-2.jpg" alt="Burger" />
-<img src="http://f.cl.ly/items/3s1j2U3t09092c0y220l/DSCF0266-Edit.jpg" alt="Reading" /></p>
+    <content type="html"><![CDATA[<p>A late lunch at &#8221;<em>THAT Food Company</em>&#8220; in Bayswater (I recommend the &#8220;LOT&#8221; burger).</p>
+<p><img height="996" src="http://f.cl.ly/items/1K2e1E2B3C3n1c0m0M1o/DSCF0264-Edit-2.jpg" width="1500" /><img height="996" src="http://f.cl.ly/items/2X0C0d152N3R3L0Q112U/DSCF0265-Edit-2.jpg" width="1500" /><img height="996" src="http://f.cl.ly/items/3s1j2U3t09092c0y220l/DSCF0266-Edit.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2012/hello/"/>
-    <updated>2012-06-26T15:59:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2012/hello</id>
-    <content type="html"><![CDATA[<p>Just testing the site!</p>
-
-<p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" alt="Cones" /></p>
+    <title type="html"><![CDATA[The Pines]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/the-pines/"/>
+    <updated>2012-06-25T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/the-pines</id>
+    <content type="html"><![CDATA[<p>Landscaping.</p>
+<p><img height="996" src="http://f.cl.ly/items/302a1Q26450z0I021e47/DSCF0230-Edit.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Old Stuff]]></title>
-    <link href="http://beta.eatsleeprepeat.net/2011/old-stuff/"/>
-    <updated>2011-07-06T18:00:00+08:00</updated>
-    <id>http://beta.eatsleeprepeat.net/2011/old-stuff</id>
-    <content type="html"><![CDATA[<p>This is really old stuff. Hah.</p>
-
-<p><img src="http://farm8.staticflickr.com/7042/6943631461_d6484b8d04_h.jpg" alt="Street Level" /></p>
+    <title type="html"><![CDATA[Reaching]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/reaching/"/>
+    <updated>2012-06-24T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/reaching</id>
+    <content type="html"><![CDATA[<p>In Fremantle, Perth.</p>
+<h3><a href="http://www.flickr.com/photos/elithrar/7424425500/lightbox/" title="Flickr"><img height="996" src="http://f.cl.ly/items/022T2y1P2e0O1L3L1d34/DSCF0191-Edit.jpg" width="1500" /></a></h3> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Lost]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/getting-lost/"/>
+    <updated>2012-06-24T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/getting-lost</id>
+    <content type="html"><![CDATA[<p>Unsealed roads are the best ones.</p>
+<p><img src="http://f.cl.ly/items/14460R0v0x3O1V3y0k0F/DSCF0218-Edit.jpg" /><img src="http://f.cl.ly/items/0Q2E1N3Y1d440S370R3J/DSCF0248-Edit.jpg" /><img src="http://f.cl.ly/items/3n0h2y3z1m1l1y3g143i/DSCF0249-Edit.jpg" /><img src="http://f.cl.ly/items/2Z3f0o0r193n370Y252e/DSCF0252-Edit.jpg" /><img src="http://f.cl.ly/items/2g051c0l2M131O3y1A2E/DSCF0254-Edit.jpg" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Daytripping]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/daytripping/"/>
+    <updated>2012-06-23T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/daytripping</id>
+    <content type="html"><![CDATA[<p>A morning well spent.</p>
+<p><img height="996" src="http://f.cl.ly/items/3W3h2h3p2q3G0f0h2W2w/DSCF0186-Edit.jpg" width="1500" /></p>
+<p><img height="996" src="http://f.cl.ly/items/2a202V3E0T2R1E1Q3U3B/DSCF0187-Edit.jpg" width="1500" /></p>
+<p><img height="996" src="http://f.cl.ly/items/3N2W3A1h200O0n3c1T1c/DSCF0188-Edit.jpg" width="1500" /></p>
+<p><img height="996" src="http://f.cl.ly/items/29182f1I2g3l410H0M2X/DSCF0189-Edit.jpg" width="1500" /></p>
+<p><img height="996" src="http://f.cl.ly/items/452W0T3l3V3c3U22122z/DSCF0193-Edit.jpg" width="1500" /></p>
+<p><img height="996" src="http://f.cl.ly/items/0W2P1B0f0Y381H1G0V03/DSCF0198-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Doors]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/doors/"/>
+    <updated>2012-06-21T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/doors</id>
+    <content type="html"><![CDATA[<p>(from the bus)</p>
+<p><img height="996" src="http://f.cl.ly/items/2f080A1C3X2a1p0m402X/DSCF0183-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Commute]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/commute/"/>
+    <updated>2012-06-20T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/commute</id>
+    <content type="html"><![CDATA[<p>On the way to work.</p>
+<p><img height="996" src="http://f.cl.ly/items/2B2R0W0A001S1U2e3w3S/DSCF0173-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Runner]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/runner/"/>
+    <updated>2012-06-19T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/runner</id>
+    <content type="html"><![CDATA[<p>Hyde Park, Perth.</p>
+<p><img height="996" src="http://f.cl.ly/items/2i3m0r27432z3Z1D2L47/DSCF0164-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Entrée]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/entr-e/"/>
+    <updated>2012-06-16T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/entr-e</id>
+    <content type="html"><![CDATA[<p>Pre-dinner hot chocolate, macarons and photo-walks.</p>
+<p><img height="996" src="http://f.cl.ly/items/3C0C383C0J0B3p131h0G/DSCF0116-Edit.jpg" width="1500" /><img src="http://f.cl.ly/items/1U0h1927290t012U3p44/DSCF0119-Edit.jpg" /><img src="http://f.cl.ly/items/38200k0P023h1P271M2S/DSCF0115-Edit-2.jpg" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Breakfast]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/breakfast/"/>
+    <updated>2012-06-15T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/breakfast</id>
+    <content type="html"><![CDATA[<p>At Food for Me in Victoria Park, Perth. Their Eggs Benedict is fantastic: the hollandaise isn&#8217;t too sweet, the eggs are poached perfectly and their mango chutney is delectable—although I did forget to order them with smoked salmon. Em had the french toast w/ maple syrup, berries and bacon.</p>
+<p><img height="996" src="http://f.cl.ly/items/0u0D3T1u3E2O3H1u2j47/DSCF0060-Edit-2.jpg" width="1500" /><img height="996" src="http://f.cl.ly/items/2F1N300q1f0X1D1h3Q0w/DSCF0058-Edit.jpg" width="1500" /><img height="996" src="http://f.cl.ly/items/3g0R1T3z341s1f3D3k1Z/DSCF0079-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Waking Up]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/waking-up/"/>
+    <updated>2012-06-14T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/waking-up</id>
+    <content type="html"><![CDATA[<p>New day, new camera.</p>
+<p><img height="1062" src="http://farm6.staticflickr.com/5032/7370466178_41ee3255d8_h.jpg" width="1600" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Plugged]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/plugged/"/>
+    <updated>2012-06-14T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/plugged</id>
+    <content type="html"><![CDATA[<p>Fuji X100.</p>
+<p><img height="1063" src="http://farm8.staticflickr.com/7217/7370653714_203b487b52_h.jpg" width="1600" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Panes]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/panes/"/>
+    <updated>2012-06-14T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/panes</id>
+    <content type="html"><![CDATA[<p>Fuji X100.</p>
+<p><img height="1063" src="http://farm6.staticflickr.com/5468/7370650362_28a3b739f7_h.jpg" width="1600" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Garden]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/garden/"/>
+    <updated>2012-06-14T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/garden</id>
+    <content type="html"><![CDATA[<p>At home.</p>
+<p><img height="1063" src="http://farm8.staticflickr.com/7097/7185426453_b8790d3219_h.jpg" width="1600" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bow]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/bow/"/>
+    <updated>2012-05-12T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/bow</id>
+    <content type="html"><![CDATA[<p>Em (Perth, WA)</p>
+<p><img alt="Em" height="1000" src="http://f.cl.ly/items/3Q3C1k1i3f3A0R0G3B13/IMG_6177-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Loosely]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/loosely/"/>
+    <updated>2012-05-02T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/loosely</id>
+    <content type="html"><![CDATA[<p>Did a small shoot with the guys from <a href="https://www.facebook.com/LooselyClothing" title="Loosely Clothing on Facebook">Loosely Clothing</a> here in Perth.</p>
+<p><img alt="Darryn, Loosely Clothing" height="1000" src="http://f.cl.ly/items/2C1o2r3c1P14211E1Z2C/IMG_5996-Edit.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Terrace]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/terrace/"/>
+    <updated>2012-04-28T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/terrace</id>
+    <content type="html"><![CDATA[<p>Darryn, St. Georges Terrace, Perth.</p>
+<p><img alt="Darryn" src="http://f.cl.ly/items/151o2K1y25443H3r2O11/IMG_6079-Edit.jpg" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In Color]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/in-color/"/>
+    <updated>2012-04-15T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/in-color</id>
+    <content type="html"><![CDATA[<p>A color take on a shot from my <a href="http://eatsleeprepeat.net/post/18344175677/abandoned" title="Abandoned">Abandoned</a> set.</p>
+<p><img alt="Aging" height="1125" src="http://f.cl.ly/items/1I0O0d2N183g0f0M3d2A/P1000758-Edit-3.jpg" width="1500" /></p> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New (Old)]]></title>
+    <link href="http://beta.eatsleeprepeat.net/2012/new-old/"/>
+    <updated>2012-04-14T00:00:00+08:00</updated>
+    <id>http://beta.eatsleeprepeat.net/2012/new-old</id>
+    <content type="html"><![CDATA[<p>An old photo from my library—and one of my personal favorites. Shot in the alleyways of Perth.</p>
+<p><img alt="Darryn" height="1500" src="http://f.cl.ly/items/432j1O1e170J0f1k3v3z/IMG_0342-Edit-2.jpg" width="1200" /></p> 
 ]]></content>
   </entry>
   

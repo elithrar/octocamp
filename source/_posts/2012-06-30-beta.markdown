@@ -1,9 +1,0 @@
----
-layout: post
-title: "Beta"
-date: 2012-06-30 19:28
-comments: false
-categories: Text
----
-
-Just a test post for the [Octopress](http://octopress.org/) powered version of eatsleeprepeat.net.
