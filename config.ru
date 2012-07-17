@@ -8,11 +8,11 @@ class SinatraStaticServer < Sinatra::Base
 
   set :static, true
 
-  configure '*.html' do
+  before '*.html' do
     set :static_cache_control, [:public, :max_age => 3600]
   end
 
-  configure %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
+  before %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
     set :static_cache_control, [:public, :max_age => 604800]
   end
 
