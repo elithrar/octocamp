@@ -4,7 +4,9 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
-class SinatraStaticServer < Sinatra::Base  
+class SinatraStaticServer < Sinatra::Base
+
+  set :static, true
 
   configure '*.html' do
     set :static_cache_control, [:public, :max_age => 3600]
