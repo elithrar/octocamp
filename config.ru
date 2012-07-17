@@ -6,6 +6,14 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base  
 
+  before '*.html' do
+    response.headers['Cache-Control'] = 'public, max-age=3600'
+  end
+
+  before %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
+    response.headers['Cache-Control'] = 'public, max-age=604800'
+  end
+
   get(/.+/) do
     send_sinatra_file(request.path) {404}
   end
