@@ -6,10 +6,7 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  set :static, true
-
   get(/.+/) do
-    cache_control :public
     send_sinatra_file(request.path) {404}
   end
 
