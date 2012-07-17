@@ -8,17 +8,6 @@ class SinatraStaticServer < Sinatra::Base
 
   set :static, true
 
-  get '*.html' do
-    set :static_cache_control, [:public, :max_age => 3600]
-    send_sinatra_file(request.path) {404}
-  end
-
-  get '%r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)}' do
-    set :static_cache_control, [:public, :max_age => 86400]
-    send_sinatra_file(request.path) {404}
-  end
-
-
   get(/.+/) do
     cache_control :public
     send_sinatra_file(request.path) {404}
