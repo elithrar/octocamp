@@ -6,20 +6,9 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  before do
-    expires 3600, :public
-  end
-
-  before '*.html' do
-    expires 3600, :public
-  end
-
-  before %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
-    expires 604800, :public
-  end
-
   get(/.+/) do
     send_sinatra_file(request.path) {404}
+    expires 3600, :public
   end
 
   not_found do
