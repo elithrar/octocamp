@@ -7,12 +7,11 @@ $root = ::File.dirname(__FILE__)
 class SinatraStaticServer < Sinatra::Base
 
   before do
-    expires 3600
+    expires 3600, :public
   end
 
   get(/.+/) do
     send_sinatra_file(request.path) {404}
-    cache_control :public
   end
 
   not_found do
