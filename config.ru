@@ -7,7 +7,7 @@ $root = ::File.dirname(__FILE__)
 class SinatraStaticServer < Sinatra::Base  
 
   before '*.html' do
-    set :static_cache_control , [:public, :max_age => 3600]
+    set :static_cache_control, [:public, :max_age => 3600]
   end
 
   before %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
