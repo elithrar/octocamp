@@ -6,11 +6,19 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  set :static, true
+  before do
+    run lambda { |env| 
+      [
+        200,
+        {
+          'Cache-Control' => 'public, max-age=3600'
+        },
+      ]
+    }
+  end
 
   get(/.+/) do
     send_sinatra_file(request.path) {404}
-    expires 3600, :public
   end
 
   not_found do
