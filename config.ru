@@ -6,18 +6,19 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  before do
-    run lambda { |env| 
-      [
-        200,
-        {
-          'Cache-Control' => 'public, max-age=3600'
-        },
-      ]
-    }
+  set :static, true
+
+  get('*.html') do
+    set :static_cache_control, [:public, :max_age => 3600]
   end
 
+  get('%r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)}') do
+    set :static_cache_control, [:public, :max_age => 86400]
+  end
+
+
   get(/.+/) do
+    cache_control :public
     send_sinatra_file(request.path) {404}
   end
 
