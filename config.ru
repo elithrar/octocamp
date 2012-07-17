@@ -12,14 +12,6 @@ class SinatraStaticServer < Sinatra::Base
     expires 3600, :public
   end
 
-  before '*.html' do
-    expires 3600, :public
-  end
-
-  before %r{\.(css)|(js)|(png)|(gif)|(jpg)|(ico)} do
-    expires 604800, :public
-  end
-
   get(/.+/) do
     send_sinatra_file(request.path) {404}
   end
