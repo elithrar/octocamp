@@ -8,12 +8,9 @@ class SinatraStaticServer < Sinatra::Base
 
   set :static, true
 
-  before do
-    expires 3600, :public
-  end
-
   get(/.+/) do
     send_sinatra_file(request.path) {404}
+    expires 3600, :public
   end
 
   not_found do
