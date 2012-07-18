@@ -4,6 +4,19 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
+use Rack::Static
+  :urls => ['/javascripts', '/stylesheets', '/ico', '/img', '/images']
+  :root => 'public'
+
+  run lambda { |env|
+  [
+    200, 
+    { 
+      'Cache-Control' => 'public, max-age=604800' 
+    },
+  ]
+}
+
 class SinatraStaticServer < Sinatra::Base
 
   before do
