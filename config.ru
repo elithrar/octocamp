@@ -6,7 +6,7 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  configure do
+  before do
     expires 3600, :public
   end
 
