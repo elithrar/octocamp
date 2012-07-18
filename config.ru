@@ -6,16 +6,14 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  before do
-    expires 7200, :public
-  end
-
   get(/.+/) do
+    cache_control :public, :max_age => 7200
     send_sinatra_file(request.path) {404}
   end
 
   not_found do
     send_sinatra_file('404.html') {"Sorry, I cannot find #{request.path}"}
+    cache_control :no_cache, :max_age => 0
   end
 
   def send_sinatra_file(path, &missing_file_block)
