@@ -6,23 +6,8 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  use Rack::Static
-  :urls => ['/javascripts', '/stylesheets', '/ico', '/img', '/images']
-  :root => 'public'
-
-  run lambda { |env|
-    [
-      200, 
-      { 
-        'Cache-Control' => 'public, max-age=604800' 
-      },
-      File.open('public/index.html', File::RDONLY)
-    ]
-  }
-
-
   before do
-    expires 3600, :public
+    expires 7200, :public
   end
 
   get(/.+/) do
