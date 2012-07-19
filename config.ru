@@ -6,8 +6,6 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
-
   get(/.+/) do
     cache_control :public, :max_age => 7200
     send_sinatra_file(request.path) {404}
@@ -27,5 +25,7 @@ class SinatraStaticServer < Sinatra::Base
 end
 
 use Rack::Deflater
+
+use Rack::CanonicalHost, 'www.eatsleeprepeat.net'
 
 run SinatraStaticServer
