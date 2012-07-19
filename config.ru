@@ -8,7 +8,7 @@ $root = ::File.dirname(__FILE__)
 class SinatraStaticServer < Sinatra::Base
 
   get(/.+/) do
-    expires 3600, :public
+    expires 3600, :public, :must_revalidate
     send_sinatra_file(request.path) {404}
   end
 
@@ -25,10 +25,8 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
-use Rack::StaticCache
-  :urls => ["/stylesheets", "/javascripts", "/images", "/img", "/ico"]
-  :root => Dir.pwd
-
+use Rack::StaticCache, :urls => ["/stylesheets", "/javascripts", "/images", "/img", "/ico"]
+ 
   def duration_in_seconds
     60 * 60 * 7 * @cache_duration
   end
