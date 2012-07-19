@@ -12,8 +12,8 @@ class SinatraStaticServer < Sinatra::Base
   end
 
   not_found do
-    send_sinatra_file('404.html') {"Sorry, I cannot find #{request.path}"}
     cache_control :no_cache, :max_age => 0
+    send_sinatra_file('404.html') {"Sorry, I cannot find #{request.path}"}
   end
 
   def send_sinatra_file(path, &missing_file_block)
