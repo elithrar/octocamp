@@ -26,6 +26,4 @@ end
 
 use Rack::Deflater
 
-use Rack::CanonicalHost, 'www.eatsleeprepeat.net'
-
 run SinatraStaticServer
