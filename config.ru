@@ -24,6 +24,7 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
+use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
 use Rack::Deflater
 
 run SinatraStaticServer
