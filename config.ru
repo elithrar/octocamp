@@ -4,9 +4,9 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
-use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
-
 class SinatraStaticServer < Sinatra::Base
+
+  use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
 
   get(/.+/) do
     cache_control :public, :max_age => 7200
