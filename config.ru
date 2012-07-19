@@ -1,5 +1,6 @@
 require 'bundler/setup'
 require 'sinatra/base'
+require 'rack/contrib'
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
@@ -7,7 +8,7 @@ $root = ::File.dirname(__FILE__)
 class SinatraStaticServer < Sinatra::Base
 
   get(/.+/) do
-    expires 7200, :public
+    expires 3600, :public
     send_sinatra_file(request.path) {404}
   end
 
@@ -23,6 +24,14 @@ class SinatraStaticServer < Sinatra::Base
   end
 
 end
+
+use Rack::StaticCache
+  :urls => ["/stylesheets", "/javascripts", "/images", "/img", "/ico"]
+  :root => Dir.pwd
+
+  def duration_in_seconds
+    60 * 60 * 7 * @cache_duration
+  end
 
 use Rack::Deflater
 
