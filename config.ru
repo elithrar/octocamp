@@ -4,6 +4,8 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
+use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
+
 class SinatraStaticServer < Sinatra::Base
 
   get(/.+/) do
@@ -24,7 +26,6 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
-use Rack::CanonicalHost, ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
 use Rack::Deflater
 
 run SinatraStaticServer
