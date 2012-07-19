@@ -12,7 +12,7 @@ class SinatraStaticServer < Sinatra::Base
   end
 
   not_found do
-    cache_control :no_cache, :max_age => 0
+    expires 0, :public, :no_cache
     send_sinatra_file('404.html') {"Sorry, I cannot find #{request.path}"}
   end
 
