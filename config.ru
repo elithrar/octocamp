@@ -25,14 +25,6 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
-use Rack::StaticCache,
-  :root => "public"
-  :urls => ["/stylesheets", "/javascripts", "/images", "/img", "/ico"]
- 
-  def duration_in_seconds
-    60 * 60 * 7 * @cache_duration
-  end
-
 use Rack::Deflater
 
 run SinatraStaticServer
