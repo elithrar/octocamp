@@ -1,3 +1,15 @@
+## EATSLEEPREPEAT.NET
+
+A fork of Octopress for [www.eatsleeprepeat.net](www.eatsleeprepeat.net), with:
+
+- A hand-crafted theme using [Twitter Bootstrap](http://twitter.github.com/bootstrap/) (under .themes/);
+- Conditional sharing that works across the blog index and individual post pages, and;
+- Some better caching tweaks (progress still to be made here!)
+
+I currently deploy this on Heroku, and host the static media w/ nginx.
+
+---
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
