@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Fuji X100 - Three Months In"
+title: "Fuji X100 - Two Months In"
 date: 2012-08-02 08:35
 comments: false
 published: false
 categories: Reviews
 ---
 
-Okay, I've had the [X100](http://www.amazon.com/gp/product/B0043RS864/ref=as_li_ss_tl?ie=UTF8&tag=eatsleeprepea-20) for three months now and I feel it's time to add a few things to my [original review](http://www.eatsleeprepeat.net/2012/fuji-x100-review/).
+Okay, I've had the [X100](http://www.amazon.com/gp/product/B0043RS864/ref=as_li_ss_tl?ie=UTF8&tag=eatsleeprepea-20) for two months now and I feel it's time to add a few things to my [original review](http://www.eatsleeprepeat.net/2012/fuji-x100-review/).
 
 The battery life has been rock solid. There are some who seem to believe it has a sub-par battery life—and I guess if you're coming from an FF DSLR, then it may seem bad in comparison—but it manages weeks on standby with the odd shot in-between. And it managed a full four days away when I went to [Yallingup](http://www.eatsleeprepeat.net/2012/yallingup/) in July—the spare batteries I brought down with me never saw any use.
 
