@@ -8,5 +8,5 @@ categories: Photography
 
 Just two quick ones before the week ends.
 
-![Vines](http://static.eatsleeprepeat.net/DSCF0313-Edit.jpg)
-![Em with her Instax](http://static.eatsleeprepeat.net/DSCF0322-Edit.jpg)
+![Vines](http://static.eatsleeprepeat.net/2012/DSCF0313-Edit.jpg)
+![Em with her Instax](http://static.eatsleeprepeat.net/2012/DSCF0322-Edit.jpg)
