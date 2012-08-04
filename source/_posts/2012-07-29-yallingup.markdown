@@ -12,15 +12,15 @@ What did we get up to? In no particular order, we walked along the beach, took a
 
 Not bad for two-and-a-half hours from Perth.
 
-![Rock](http://f.cl.ly/items/3i3L0U3p1a1S203F1W0u/DSCF0371-Edit.jpg)
-![Breakfast](http://f.cl.ly/items/0s3O3n1F2X0b0u0T0p3B/DSCF0376-Edit.jpg)
-![Beach](http://f.cl.ly/items/1K333p3Q3s2z1N002W0u/DSCF0395-Edit.jpg)
-![Overgrowth](http://f.cl.ly/items/002S3J0m2c0L2t3n2b1N/DSCF0398-Edit.jpg)
-![Moss](http://f.cl.ly/items/0e220n182r2u2U0j0P2a/DSCF0418-Edit.jpg)
-![Bread](http://f.cl.ly/items/1n213Q1E353H3d2e2T0q/DSCF0382-Edit.jpg)
-![Dusk](http://f.cl.ly/items/1S3l0h2G0M1H232p3T3c/DSCF0412-Edit.jpg)
-![Outward](http://f.cl.ly/items/1T2n102Z0U3R0S3D3z1J/DSCF0416-Edit.jpg)
-![Stars](http://f.cl.ly/items/3q1i2J2c2q0Y040e2T3L/DSCF0429-Edit.jpg)
+![Rock](http://static.eatsleeprepeat.net/DSCF0371-Edit.jpg)
+![Breakfast](http://static.eatsleeprepeat.net/DSCF0376-Edit.jpg)
+![Beach](http://static.eatsleeprepeat.net/DSCF0395-Edit.jpg)
+![Overgrowth](http://static.eatsleeprepeat.net/DSCF0398-Edit.jpg)
+![Moss](http://static.eatsleeprepeat.net/DSCF0418-Edit.jpg)
+![Bread](http://static.eatsleeprepeat.net/DSCF0382-Edit.jpg)
+![Dusk](http://static.eatsleeprepeat.net/DSCF0412-Edit.jpg)
+![Outward](http://static.eatsleeprepeat.net/DSCF0416-Edit.jpg)
+![Stars](http://static.eatsleeprepeat.net/DSCF0429-Edit.jpg)
 
 
 
