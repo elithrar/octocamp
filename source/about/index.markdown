@@ -25,4 +25,4 @@ If you want to get in touch regarding photography, the web or engineering, drop 
 
 
 
-![X100 at the Beach](http://static.eatsleeprepeat.net/2012/x100_beach_crop.jpg)
+![X100 at the Beach](http://static.eatsleeprepeat.net/2012/x100_beach_crop-1100.jpg)
