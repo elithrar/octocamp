@@ -27,4 +27,11 @@ end
 
 use Rack::Deflater
 
+use Rack::CanonicalHost
+  do
+    ENV['CANONICAL_HOST'] if ENV['CANONICAL_HOST']
+    ignore: ['media.eatsleeprepeat.net', 'static.eatsleeprepeat.net']
+  end
+end
+
 run SinatraStaticServer
