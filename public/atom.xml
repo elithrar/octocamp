@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2012-08-05T07:52:11+08:00</updated>
+  <updated>2012-08-05T08:31:00+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Waffling On]]></title>
+    <link href="http://www.eatsleeprepeat.net/2012/waffling-on/"/>
+    <updated>2012-08-05T08:12:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2012/waffling-on</id>
+    <content type="html"><![CDATA[<p>Discovered a neat little waffle place called <a href="http://www.urbanspoon.com/r/338/1686816/restaurant/Perth/Superstar-Waffles-Northbridge">Superstar Waffles</a> here in Northbridge. Had a latte (good!) and shared a few bites from a waffle-on-a-stick with condensed milk (great!). I&#8217;m definitely a fan.</p>
+
+<p>The store itself is very minimalist, from the iPad-as-the-till down to the spartan tables and chairs. It&#8217;s cozy, too, so plan to avoid usual busy periods or get something to go.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2012/DSCF0436-Edit-1100.jpg" alt="Machines" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0437-Edit-1100.jpg" alt="Coffee" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0438-Edit-1100.jpg" alt="Waffles" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0439-Edit-1100.jpg" alt="Opening Hours" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yallingup]]></title>
@@ -240,16 +256,6 @@
     <id>http://www.eatsleeprepeat.net/2012/garden</id>
     <content type="html"><![CDATA[<p>At home.</p>
 <p><img height="1063" src="http://farm8.staticflickr.com/7097/7185426453_b8790d3219_h.jpg" width="1600" /></p> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bow]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/bow/"/>
-    <updated>2012-05-12T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/bow</id>
-    <content type="html"><![CDATA[<p>Em (Perth, WA)</p>
-<p><img alt="Em" height="1000" src="http://static.eatsleeprepeat.net/2012/IMG_6177-Edit-1100px.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
