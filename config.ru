@@ -6,9 +6,6 @@ require 'rack-canonical-host'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
-if ENV['CANONICAL_HOST']
-  use Rack::CanonicalHost, ENV['CANONICAL_HOST'], ignore: ['media.eatsleeprepeat.net', 'static.eatsleeprepeat.net']
-
 class SinatraStaticServer < Sinatra::Base
 
   get(/.+/) do
@@ -29,6 +26,9 @@ class SinatraStaticServer < Sinatra::Base
 
 end
 
+if ENV['CANONICAL_HOST']
+  use Rack::CanonicalHost, ENV['CANONICAL_HOST'], ignore: ['media.eatsleeprepeat.net', 'static.eatsleeprepeat.net']
+end
 
 use Rack::Deflater
 
