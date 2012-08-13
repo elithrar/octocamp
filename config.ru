@@ -8,6 +8,10 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
+  get %r{(/.*[^\/])$} do
+    redirect "#{params[:captures].first}/"
+  end
+
   get(/.+/) do
     expires 3600, :public, :must_revalidate
     send_sinatra_file(request.path) {404}
