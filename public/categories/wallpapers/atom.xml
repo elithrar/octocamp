@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Wallpapers | EATSLEEPREPEAT.NET]]></title>
+  <link href="http://www.eatsleeprepeat.net/categories/wallpapers/atom.xml" rel="self"/>
+  <link href="http://www.eatsleeprepeat.net/"/>
+  <updated>2012-09-25T09:18:19+08:00</updated>
+  <id>http://www.eatsleeprepeat.net/</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[iPhone 5 Wallpapers]]></title>
+    <link href="http://www.eatsleeprepeat.net/2012/iphone-5-wallpapers/"/>
+    <updated>2012-09-25T08:53:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2012/iphone-5-wallpapers</id>
+    <content type="html"><![CDATA[<p>First up: sorry for the slow updates. It's been a busy couple of months. Saying that, I do have a trips to the Perth Royal Show, York &amp; New Norcia planned over the next couple of weeks, so expect more photos soon.</p>
+
+<p>I also bought an iPhone 5 yesterday and recognised a dearth of usable wallpapers (1136px x 640px). I've since corrected that. You can grab this pack of four <a href="http://static.eatsleeprepeat.net/2012/iphone5_wallpapers_20120925.zip">here</a>. I may go through my archives and add a few more, too.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2012/iphone5_wallpapers_strip_20120925.jpg" alt="iPhone 5 Wallpapers" /></p>
+]]></content>
+  </entry>
+  
+</feed>
