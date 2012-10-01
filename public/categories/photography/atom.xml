@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photography | EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2012-09-25T09:22:50+08:00</updated>
+  <updated>2012-10-02T07:07:45+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2012 Perth Royal Show]]></title>
+    <link href="http://www.eatsleeprepeat.net/2012/2012-perth-royal-show/"/>
+    <updated>2012-10-02T07:00:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2012/2012-perth-royal-show</id>
+    <content type="html"><![CDATA[<p>Just a small batch this year, including a re-take of my old favorite (the Python Loop). We went late in the day and enjoyed hot cinnamon donuts, hot dogs and bratwurst.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2012/DSCF0473-Edit-1100.jpg" alt="Superbowl" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0459-Edit-1100.jpg" alt="Chair Lift" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0471-Edit-1100.jpg" alt="Loop Redux" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Waffling On]]></title>
@@ -74,21 +87,6 @@
 
 <p><img src="http://static.eatsleeprepeat.net/2012/DSCF0313-Edit-1100.jpg" alt="Vines" />
 <img src="http://static.eatsleeprepeat.net/2012/DSCF0322-Edit-1100.jpg" alt="Em with her Instax" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Instax]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/instax/"/>
-    <updated>2012-07-03T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/instax</id>
-    <content type="html"><![CDATA[<p>Em's Fuji Instax 210 (the wide format version) arrived today.</p>
-
-
-<h3><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0276-Edit-1100.jpg" width="1500" /></h3>
-
-
-<p></p>
 ]]></content>
   </entry>
   
