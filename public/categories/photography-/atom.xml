@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photography, | EATSLEEPREPEAT.NET]]></title>
+  <link href="http://www.eatsleeprepeat.net/categories/photography-/atom.xml" rel="self"/>
+  <link href="http://www.eatsleeprepeat.net/"/>
+  <updated>2012-10-13T15:32:15+08:00</updated>
+  <id>http://www.eatsleeprepeat.net/</id>
+  <author>
+    <name><![CDATA[Matt Silverlock]]></name>
+    <email><![CDATA[matt@eatsleeprepeat.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[York]]></title>
+    <link href="http://www.eatsleeprepeat.net/2012/york/"/>
+    <updated>2012-10-13T12:01:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2012/york</id>
+    <content type="html"><![CDATA[<p>Left home at 4:30AM to make it here by sunrise, to instead be greeted by overcast skies. We made the most of the morning anyway, exploring quiet lots and empty roads alike. It's not bad for a quaint country town just 1.5 hours out of Perth.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2012/DSCF0478-Edit-1100.jpg" alt="Field" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0486-Edit-1100.jpg" alt="Wreck" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0495-Edit-1100.jpg" alt="Pump" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0498-Edit-1100.jpg" alt="Ford" />
+<img src="http://static.eatsleeprepeat.net/2012/DSCF0500-Edit-1100.jpg" alt="Weir" /></p>
+]]></content>
+  </entry>
+  
+</feed>
