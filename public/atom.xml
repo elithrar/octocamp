@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2012-10-14T11:16:35+08:00</updated>
+  <updated>2012-11-08T07:23:50+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Coverage]]></title>
+    <link href="http://www.eatsleeprepeat.net/2012/coverage/"/>
+    <updated>2012-11-08T07:18:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2012/coverage</id>
+    <content type="html"><![CDATA[<p>Who knew that avocado trees dropped their leaves in Spring? PS: I&#8217;ve also put this up on Desktoppr <a href="https://www.desktoppr.co/wallpapers/188465">in Retina wallpaper size</a>.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2012/DSCF0522-Edit-1100.jpg" alt="Coverage" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[York]]></title>
@@ -272,16 +283,6 @@
     <id>http://www.eatsleeprepeat.net/2012/entr-e</id>
     <content type="html"><![CDATA[<p>Pre-dinner hot chocolate, macarons and photo-walks.</p>
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0116-Edit-1100.jpg" width="1500" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0119-Edit-1100.jpg" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0115-Edit-1100.jpg" /></p> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Breakfast]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/breakfast/"/>
-    <updated>2012-06-15T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/breakfast</id>
-    <content type="html"><![CDATA[<p>At Food for Me in Victoria Park, Perth. Their Eggs Benedict is fantastic: the hollandaise isn&#8217;t too sweet, the eggs are poached perfectly and their mango chutney is delectable—although I did forget to order them with smoked salmon. Em had the french toast w/ maple syrup, berries and bacon.</p>
-<p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0060-Edit-2-1100.jpg" width="1500" /><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0058-Edit-2-1100.jpg" width="1500" /><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0079-Edit-1100.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
