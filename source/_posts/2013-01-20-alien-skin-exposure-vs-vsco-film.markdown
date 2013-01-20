@@ -70,6 +70,5 @@ Exposure's results are more pleasing to me, and in cases where I need to lift bl
 
 Both are about the same price: Exposure is [$199](https://app.alienskin.com/store/) and VSCO Film is [$119 per pack](http://visualsupply.co/store). Film 02 has updated Portra presets; Film 01 has Pro 400H and Tri-X (I'd buy 01, personally). VSCO has a neat little preset "toolkit" for tinting shadows, highlights and making other minor tweaks, and ultimately is more friendly to use as a result. Exposure has a *lot* of other emulations (Kodachrome!), and offers a lot of choice (too much?) for those who want that.
 
-It's a tough call. VSCO really makes your workflow easy: fix first, hit the preset and tweak if needed. Exposure is a bit clunkier and you end up with 100MB+ TIFFs eating up some space (even if space is cheap these days), although Lightroom automatic stacking makes this a minor issue overall. It's a trade-off I'm willing to make for nicer grain, more natural saturation and more "pop" (however you quantify that).
-
+It's a tough call. VSCO really makes your workflow easy: fix first, hit the preset and tweak if needed. Exposure is a bit clunkier and you end up with 100MB+ TIFFs eating up some space (even if space is cheap these days), although Lightroom automatic stacking makes this a minor issue overall. But Exposure's advantages—nicer grain, more natural saturation and more "pop" (however you quantify that)—outweigh the negatives.
 
