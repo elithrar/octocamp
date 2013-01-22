@@ -22,6 +22,10 @@ class SinatraStaticServer < Sinatra::Base
     send_sinatra_file('404.html') {"Sorry, I cannot find #{request.path}"}
   end
 
+  configure :production do
+    require 'newrelic_rpm'
+  end
+
   def send_sinatra_file(path, &missing_file_block)
     file_path = File.join(File.dirname(__FILE__), 'public',  path)
     file_path = File.join(file_path, 'index.html') unless file_path =~ /\.[a-z]+$/i  

@@ -31,6 +31,7 @@ GEM
     liquid (2.3.0)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    newrelic_rpm (3.5.5.38)
     posix-spawn (0.3.6)
     pygments.rb (0.2.13)
       rubypython (~> 0.5.3)
@@ -71,6 +72,7 @@ DEPENDENCIES
   haml (~> 3.1.6)
   jekyll (~> 0.11.2)
   liquid (~> 2.3.0)
+  newrelic_rpm
   pygments.rb (~> 0.2.12)
   rack (~> 1.4.1)
   rack-canonical-host
