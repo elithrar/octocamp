@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2013-01-24T14:17:23+08:00</updated>
+  <updated>2013-02-03T18:53:34+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Retro Rangefinder]]></title>
+    <link href="http://www.eatsleeprepeat.net/2013/retro-rangefinder/"/>
+    <updated>2013-02-03T18:45:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2013/retro-rangefinder</id>
+    <content type="html"><![CDATA[<p>I managed to score this Minolta Hi-Matic 9 for $60 on eBay a couple of weeks ago, and it arrived this Friday just past. The body is in great condition—with the odd few scratches you&#8217;d expect from something 50 years old—and it seems to have a working shutter (some of these Minolta&#8217;s have a rep for sticky shutters). The light seals are completely shot, so I&#8217;ll be replacing them this week with yarn &amp; felt, and I have a few rolls of Fuji 400H &amp; Ilford HP5 that should hopefully arrive shortly.</p>
+
+<p>Fingers crossed that it works!</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2013/DSCF0723-Edit-1100.jpg" alt="Close-up" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0725-Edit-1100.jpg" alt="Hi-Matic 9" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0727-Edit-1100.jpg" alt="Minolta" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Clear Skies]]></title>
@@ -340,16 +355,6 @@
     <id>http://www.eatsleeprepeat.net/2012/doors</id>
     <content type="html"><![CDATA[<p>(from the bus)</p>
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0183-Edit-1100.jpg" width="1500" /></p> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Commute]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/commute/"/>
-    <updated>2012-06-20T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/commute</id>
-    <content type="html"><![CDATA[<p>On the way to work.</p>
-<p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0173-Edit-1100.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
