@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2013-02-15T21:42:43+08:00</updated>
+  <updated>2013-02-19T18:03:56+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yashica]]></title>
+    <link href="http://www.eatsleeprepeat.net/2013/yashica/"/>
+    <updated>2013-02-19T17:56:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2013/yashica</id>
+    <content type="html"><![CDATA[<p>Picked up another rangefinder—this time, a Yashica Electro 35 GSN. I discovered that my Minolta needed more than just new seals—it has a faulty self-timer that has jammed the shutter—and figured that was as good an excuse as any to add to my collection. I also wanted something that wasn&#8217;t going to fail me when I&#8217;m in Melbourne next month on holiday.</p>
+
+<p>The Yashica itself is a little simpler than the Minolta, despite the busy-looking top plate. It&#8217;s aperture priority only, but will do anywhere between 1/500 and 30s. The viewfinder will show when the camera can&#8217;t keep the shutter in that range for the selected aperture, and the frame-lines are nice and bright. Looking forward to giving it a run this weekend.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2013/DSCF0741-Edit-2-1100.jpg" alt="Electro 35 GSN" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Retro Rangefinder]]></title>
@@ -345,16 +358,6 @@
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0189-Edit-1100.jpg" width="1500" /></p>
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0193-Edit-1100.jpg" width="1500" /></p>
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0198-Edit-1100.jpg" width="1500" /></p> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Doors]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/doors/"/>
-    <updated>2012-06-21T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/doors</id>
-    <content type="html"><![CDATA[<p>(from the bus)</p>
-<p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0183-Edit-1100.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
