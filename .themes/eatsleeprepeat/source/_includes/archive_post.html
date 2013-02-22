@@ -3,12 +3,12 @@
 <h2><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h2>
 
 {% unless page.meta == false %}
-<span class="cite">
+<small>
     <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
-</span>
+</small>
 {% endunless %}
 
 {% if category != '0' %}
-<span class="cite">in {{ post.categories | category_links }}</span>
+<small>in {{ post.categories | category_links }}</small>
 {% endif %}
 </div>
