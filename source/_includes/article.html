@@ -18,9 +18,9 @@
 {% endif %}
 
 {% unless page.meta == false %}
-<span class="cite">
+<small>
     <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
-</span>
+</small>
 {% unless page.sharing == false %}
     {% include post/sharing.html %}
 {% endunless %}
