@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2013-02-23T22:16:32+08:00</updated>
+  <updated>2013-02-23T22:24:39+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aimlessness]]></title>
+    <link href="http://www.eatsleeprepeat.net/2013/aimlessness/"/>
+    <updated>2013-02-23T22:21:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2013/aimlessness</id>
+    <content type="html"><![CDATA[<p>Grabbed a couple of shots in the suburbs on the X100. I also took the new (old) Yashica out for a test run, but those shots will have to wait until I finish off the roll. The lack of instant gratification is an odd feeling indeed.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2013/DSCF0758-Edit-1100.jpg" alt="Truck" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0757-Edit-1100.jpg" alt="Verticals" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Retrospect]]></title>
@@ -344,16 +356,6 @@
     <id>http://www.eatsleeprepeat.net/2012/reaching</id>
     <content type="html"><![CDATA[<p>In Fremantle, Perth.</p>
 <h3><a href="http://www.flickr.com/photos/elithrar/7424425500/lightbox/" title="Flickr"><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0191-Edit-1100.jpg" width="1500" /></a></h3> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Getting Lost]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/getting-lost/"/>
-    <updated>2012-06-24T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/getting-lost</id>
-    <content type="html"><![CDATA[<p>Unsealed roads are the best ones.</p>
-<p><img src="http://static.eatsleeprepeat.net/2012/DSCF0218-Edit-1100.jpg" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0248-Edit-1100.jpg" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0249-Edit-1100.jpg" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0252-Edit-1100.jpg" /><img src="http://static.eatsleeprepeat.net/2012/DSCF0254-Edit-1100.jpg" /></p> 
 ]]></content>
   </entry>
   
