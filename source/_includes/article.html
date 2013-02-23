@@ -19,7 +19,7 @@
 
 {% unless page.meta == false %}
 <small>
-    <i class="icon-calendar"></i> Posted on {% include post/date.html %}{{ time }}
+    <i class="icon-calendar"></i>{% include post/date.html %}{{ time }}
 </small>
 {% unless page.sharing == false %}
     {% include post/sharing.html %}

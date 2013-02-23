@@ -43,20 +43,48 @@ body {
   }
 }
 
-.navbar .brand {
-    padding: 8px 20px 12px;
+.navbar-inner {
+    background-color: #1B3350;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+    border: 1px solid #1B3350;
 }
 
-.navbar-inverse .brand {
-    font-family: 'Open Sans Condensed', sans-serif;
+.navbar .brand {
+    padding: 8px 20px 12px;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
-    color: white;
-    font-size: 22px;
-    line-height: 1;
+    color: whitesmoke;
+    font-size: 200%;
+    text-shadow: none;
+}
+
+.navbar .nav {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 125%;
+    text-transform: uppercase;
+    text-shadow: none;
 }
 
 .navbar .nav > li > a {
-    padding: 10px 10px 10px;
+    color: whitesmoke;
+    text-shadow: none;
+}
+
+.navbar .nav > li > a:hover,
+.navbar .nav > li > a:focus {
+    background-color: #264473;
+    text-shadow: none;
+    color: white;
+}
+
+.navbar .nav > li > .dropdown-menu:after {
+    border-bottom: 6px solid #EEE;
+}
+
+.dropdown-menu {
+    background-color: #EEE;
 }
 
 img {
@@ -69,13 +97,15 @@ small {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 5px 0;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
 }
 
-h2 {
+h2,
+h2 > a {
     font-size: 24px;
     line-height: 36px;
+    color: #264473;
 }
 
 .hero-unit {
