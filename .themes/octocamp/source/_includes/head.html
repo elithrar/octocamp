@@ -13,15 +13,15 @@
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical }}">
-  <link href="{{ root_url }}/favicon.png?v=2012024-3" rel="icon">
+  <link href="{{ root_url }}/favicon.png?v=2013-02-24T15:05+0800" rel="icon">
   <!-- For iPhone 4 & 5 Retina displays: -->
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ root_url }}/apple-touch-icon-114x114-precomposed.png?v=2012024">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ root_url }}/apple-touch-icon-114x114-precomposed.png?v=2013-02-24T15:05+0800">
   <!-- For iPad: -->
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ root_url }}/apple-touch-icon-72x72-precomposed.png?v=2012024">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ root_url }}/apple-touch-icon-72x72-precomposed.png?v=2013-02-24T15:05+0800">
   {% include custom/head.html %}
 
   <!-- Le styles -->
-  <link href="{{ root_url }}/stylesheets/screen.css?v=20120224" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="{{ root_url }}/stylesheets/screen.css?v=2013-02-24T15:05+0800" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
 
   {% include google_analytics.html %}
