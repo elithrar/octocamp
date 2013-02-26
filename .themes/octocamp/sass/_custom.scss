@@ -90,6 +90,17 @@ body {
     border-bottom: 6px solid #EEE;
 }
 
+.navbar .nav li.dropdown > .dropdown-toggle .caret {
+    border-top-color: #EEE;
+    border-bottom-color: #EEE;
+}
+
+.navbar .nav li.dropdown > a:hover .caret,
+.navbar .nav li.dropdown > a:focus .caret {
+border-top-color: #BBB;
+border-bottom-color: #BBB;
+}
+
 .dropdown-menu {
     background-color: #EEE;
 }
