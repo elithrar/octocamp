@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2013-03-04T20:38:37+08:00</updated>
+  <updated>2013-03-04T20:43:00+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sign Language]]></title>
+    <link href="http://www.eatsleeprepeat.net/2013/sign-language/"/>
+    <updated>2013-03-04T20:39:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2013/sign-language</id>
+    <content type="html"><![CDATA[<p>I&#8217;m a sucker for signs. Old and new; painted or neon: it doesn&#8217;t really matter what. We managed to grab these as we drove around North Fremantle with hot chocolates &amp; macarons.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2013/DSCF0791-Edit-1100.jpg" alt="Gilbert Fraser" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0788-Edit-1100.jpg" alt="Fowler" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0793-Edit-1100.jpg" alt="Pharmacy" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0794-Edit-2-1100.jpg" alt="Dingo" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0796-Edit-1100.jpg" alt="Coca Cola" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Early Mornings]]></title>
@@ -351,16 +366,6 @@
     <id>http://www.eatsleeprepeat.net/2012/lunch</id>
     <content type="html"><![CDATA[<p>A late lunch at &#8221;<em>THAT Food Company</em>&#8220; in Bayswater (I recommend the &#8220;LOT&#8221; burger).</p>
 <p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0264-Edit-2-1100.jpg" width="1500" /><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0265-Edit-2-1100.jpg" width="1500" /><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0266-Edit-1100.jpg" width="1500" /></p> 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Pines]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/the-pines/"/>
-    <updated>2012-06-25T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/the-pines</id>
-    <content type="html"><![CDATA[<p>Landscaping.</p>
-<p><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0230-Edit-1100.jpg" width="1500" /></p> 
 ]]></content>
   </entry>
   
