@@ -43,19 +43,29 @@ body {
   }
 }
 
+.navbar-fixed-top .navbar-inner,
+.navbar-static-top .navbar-inner {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
 .navbar-inner {
-    background-color: #1B3350;
+    background-color: #EEE;
     background-image: none;
     background-repeat: no-repeat;
     filter: none;
-    border: 1px solid #1B3350;
+    border: none;
+    webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
 }
 
 .navbar .brand {
     padding: 8px 20px 12px;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
-    color: whitesmoke;
+    color: #333;
     font-size: 175%;
     text-shadow: none;
 }
@@ -75,7 +85,7 @@ body {
 }
 
 .navbar .nav > li > a {
-    color: whitesmoke;
+    color: #333;
     text-shadow: none;
 }
 
@@ -91,8 +101,8 @@ body {
 }
 
 .navbar .nav li.dropdown > .dropdown-toggle .caret {
-    border-top-color: #EEE;
-    border-bottom-color: #EEE;
+    border-top-color: #333;
+    border-bottom-color: #333;
 }
 
 .navbar .nav li.dropdown > a:hover .caret,
@@ -103,6 +113,16 @@ body {
 
 .dropdown-menu {
     background-color: #EEE;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+    background-color: #264473;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
 }
 
 img {
