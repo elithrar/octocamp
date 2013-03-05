@@ -78,10 +78,20 @@ body {
 }
 
 .navbar .btn-navbar {
-    background-color: #264473;
+    background-color: #333;
     background-image: none;
     background-repeat: none;
     filter: none;
+}
+
+.navbar .btn-navbar:hover,
+.navbar .btn-navbar:focus,
+.navbar .btn-navbar:active, 
+.navbar .btn-navbar.active,
+.navbar .btn-navbar.disabled,
+.navbar .btn-navbar[disabled] {
+    color: #EEE;
+    background-color: #777;
 }
 
 .navbar .nav > li > a {
