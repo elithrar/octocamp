@@ -1,7 +1,7 @@
 /*!
- * Additional CSS for EATSLEEPREPEAT.NET
+ * Additional CSS for EATSLEEPREPEAT
  *
- * @elithrar
+ * @elithrar / www.eatsleeprepeat.net
  *
  */
 
@@ -63,7 +63,7 @@ body {
 
 .navbar .brand {
     padding: 8px 20px 12px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
     font-weight: 700;
     color: #333;
     font-size: 175%;
@@ -71,7 +71,7 @@ body {
 }
 
 .navbar .nav {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
     font-size: 125%;
     text-transform: uppercase;
     text-shadow: none;
@@ -145,7 +145,7 @@ small {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 5px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
     font-weight: 700;
 }
 
@@ -173,8 +173,13 @@ h4 {
     margin-bottom: 10px;
 }
 
-.pagination ul > li > a, .pagination ul > li > span {
+.pagination ul > li > a,
+.pagination ul > li > span {
     background-color: #EEE;
+    color: #333;
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-size: 125%;
+    text-transform: uppercase;
 }
 
 hr {
@@ -184,4 +189,7 @@ hr {
 
 footer {
     text-align: center;
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-size: 110%;
+    text-transform: uppercase;
 }
