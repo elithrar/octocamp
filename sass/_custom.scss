@@ -33,7 +33,7 @@ body {
     background-color: #EEE;
     font-size: 13px;
     line-height: 18px;
-    padding-top: 60px;
+    padding-top: 45px;
     padding-bottom: 40px;
 }
 
@@ -147,10 +147,11 @@ h1, h2, h3, h4, h5, h6 {
     margin: 5px 0;
     font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
     font-weight: 700;
+    padding-top: 15px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 135%;
     line-height: 36px; 
 }
 
@@ -158,8 +159,24 @@ h2 > a {
     color: #264473;
 }
 
+h3 {
+    font-size: 120%;
+}
+
+h3 > a {
+    color: #264473;
+}
+
 h4 {
-    padding-top: 20px;
+    font-size: 105%;
+}
+
+h5 {
+    font-size: 90%;
+}
+
+h6 {
+    font-size: 75%;
 }
 
 .hero-unit {
