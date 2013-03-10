@@ -9,7 +9,7 @@ footer: true
 
 ### Who am I?
 
-I'm Matt. I work as an ICT Engineer & sometimes-photographer. I'm big on travel, food & landscapes, so you'll see a lot of those things on this blog. I've also experience in radio & fibre design, network security & virtualised platforms (just to rounds things out).
+I'm Matt. I work as an ICT Engineer & photographer. I'm big on travel, streets & landscapes, so you'll see a lot of those things on this blog. When I'm not taking photos I'm reading, writing and/or planning my next trip somewhere.
 
 ### What do I use?
 
