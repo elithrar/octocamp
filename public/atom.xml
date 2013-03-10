@@ -4,7 +4,7 @@
   <title><![CDATA[EATSLEEPREPEAT.NET]]></title>
   <link href="http://www.eatsleeprepeat.net/atom.xml" rel="self"/>
   <link href="http://www.eatsleeprepeat.net/"/>
-  <updated>2013-03-08T21:02:11+08:00</updated>
+  <updated>2013-03-10T22:11:33+08:00</updated>
   <id>http://www.eatsleeprepeat.net/</id>
   <author>
     <name><![CDATA[Matt Silverlock]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Very Little]]></title>
+    <link href="http://www.eatsleeprepeat.net/2013/very-little/"/>
+    <updated>2013-03-10T22:05:00+08:00</updated>
+    <id>http://www.eatsleeprepeat.net/2013/very-little</id>
+    <content type="html"><![CDATA[<p>A few shots from this afternoon with the X100, scouting for new places.</p>
+
+<p><img src="http://static.eatsleeprepeat.net/2013/DSCF0812-Edit-1100.jpg" alt="Minimalist" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0810-Edit-1100.jpg" alt="Bordered" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0816-Edit-1100.jpg" alt="Tabled" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0815-Edit-1100.jpg" alt="Bar" />
+<img src="http://static.eatsleeprepeat.net/2013/DSCF0817-Edit-1100.jpg" alt="Down" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Freckled]]></title>
@@ -357,16 +372,6 @@
 <p>There&#8217;s also the mostly unanimous advice to use a 45MB/s SD card (or better) to keep shot-to-shot and image review speeds from being sluggish—I&#8217;m using a 16GB SanDisk Extreme (UHS-1), and don&#8217;t notice any particular issue there. I also bought two spare batteries and a wall+car charger (a <a href="http://www.amazon.com/gp/product/B005CRHM5C/ref=as_li_ss_tl?ie=UTF8&amp;tag=eatsleeprepea-20&amp;linkCode=as2">Wasabi Power kit from Amazon for USD$23</a>), although I find I get a decent number of shots out of the camera (with power saving mode off) as it is.</p>
 
 <p>Overall, I couldn&#8217;t ask for much more from a camera. I don&#8217;t think it&#8217;s expensive—you&#8217;re basically getting the image quality of a prosumer DSLR with a great prime in a <em>much</em> more portable package—and its handling allows the camera to get out the way and let you get on with making photographs.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Instax]]></title>
-    <link href="http://www.eatsleeprepeat.net/2012/instax/"/>
-    <updated>2012-07-03T00:00:00+08:00</updated>
-    <id>http://www.eatsleeprepeat.net/2012/instax</id>
-    <content type="html"><![CDATA[<p>Em&#8217;s Fuji Instax 210 (the wide format version) arrived today.</p>
-<h3><img height="996" src="http://static.eatsleeprepeat.net/2012/DSCF0276-Edit-1100.jpg" width="1500" /></h3> 
 ]]></content>
   </entry>
   
