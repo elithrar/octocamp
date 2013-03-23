@@ -9,10 +9,10 @@ sidebar: false
 <div class="pagination pagination-centered">
   <ul>
     {% if page.previous.url %}
-    <li><a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">Older: "{{page.previous.title | truncatewords: 3}}"</a></li>
+    <li><a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">Older</a></li>
     {% endif %}
     {% if page.next.url %}
-    <li><a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Newer: "{{page.next.title | truncatewords: 3}}"</a></li>
+    <li><a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Newer</a></li>
     {% endif %}
   </ul>
 </div>
