@@ -3,7 +3,7 @@ layout: post
 title: "Four Days: Part 2"
 date: 2013-03-25 05:51
 comments: false
-categories: Travel, Photography
+categories: [Travel, Photography]
 ---
 
 A few more from my Melbourne trip. I shot everything on my X100.

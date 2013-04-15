@@ -3,7 +3,7 @@ layout: post
 title: "Four Days"
 date: 2013-03-23 07:01
 comments: false
-categories: Travel, Photography
+categories: [Travel, Photography]
 ---
 
 Just came back from a quick four-day trip in Melbourne. The weather was great—having just missed the end of their heatwave—and we spent most of our time shopping, eating, walking & taking photos. I'd been before (about four years ago), and it's easy to forget how much more "alive" the city is than Perth. Even at 8PM at night you're spoilt for choice, and you don't feel unsafe walking down the streets between dinner and dessert.
