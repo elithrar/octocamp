@@ -1,0 +1,22 @@
+---
+layout: post
+title: "VSCO Cam"
+date: 2013-06-20 15:40
+comments: false
+categories: Photography
+---
+
+I take a ton of photos on my iPhone, and I've always tried to keep my workflow as simple as possible: no multiple app import/export shenanigans. For a long while I was using the original VSCO Cam app—I loved the filters but wasn't a fan of the slowness. [Afterlight](http://afterlight.us/) (formerly Afterglow) came along and solved a lot of the problems I had with VSCO's interface, even if the filters weren't as great (I value convenience highly when using my phone!).
+
+So you can imagine I was pretty impressed when the new [VSCO Cam](http://vsco.co/vscocam) launched a couple of weeks ago; alongside a whole raft of new filters, a much improved UI (with a few quirks) and significantly better performance. Note that if you're going to buy any of the preset packs, it currently makes a lot of sense to cough up $5.99 for all 48 presets. Given that the app itself costs nothing, it's money well invested.
+
+I've been using it non-stop since I got it. Most of the below use the "F" and "K" presets, which are easily my favorites so far for their relatively muted look.
+
+![Lunch](http://static.eatsleeprepeat.net/2013/IMG_2540.JPG)
+![Row](http://static.eatsleeprepeat.net/2013/IMG_2545.JPG)
+![D](http://static.eatsleeprepeat.net/2013/IMG_2505.JPG)
+![Fuji](http://static.eatsleeprepeat.net/2013/IMG_2546.JPG)
+![Business](http://static.eatsleeprepeat.net/2013/IMG_2544.JPG)
+![Flats](http://static.eatsleeprepeat.net/2013/IMG_2547.JPG)
+![Please](http://static.eatsleeprepeat.net/2013/IMG_2525.JPG)
+
