@@ -21,4 +21,4 @@ I've also been shooting film a fair bit—I've never been one to take 50 shots a
 
 If you want to get in touch regarding photography, the web or engineering, drop an email to <matt@eatsleeprepeat.net>.
 
-![X100 at the Beach](http://static.eatsleeprepeat.net/2012/x100_beach_crop-1100.jpg)
+![Nikon F3HP](http://static.eatsleeprepeat.net/assets/img/nikon-f3hp-1100px.jpg)
