@@ -1,8 +1,8 @@
 ## EATSLEEPREPEAT.NET
 
-A fork of [Octopress](http://octopress.org) for [www.eatsleeprepeat.net](http://www.eatsleeprepeat.net), with:
+A fork of [Octopress 2.0](http://octopress.org) for [www.eatsleeprepeat.net](http://www.eatsleeprepeat.net), with:
 
-- A hand-crafted theme using [Twitter Bootstrap](http://twitter.github.com/bootstrap/) (under .themes/octocamp);
+- A hand-crafted theme using [Twitter Bootstrap 2.0](http://twitter.github.com/bootstrap/) (under .themes/octocamp);
 - Conditional sharing that works across the blog index and individual post pages, and;
 - Some better caching tweaks (progress still to be made here!)
 
